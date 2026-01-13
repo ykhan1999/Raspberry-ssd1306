@@ -190,7 +190,7 @@ if(OLED_DEBUG)DumpSaveFrame(sv);
   }
 
   // You can change font file
-  Fontx_init(fx,"./fontx/ILGH16XB.FNT","./fontx/ILGZ16XB.FNT"); // 16Dot Gothic
+  Fontx_init(fx,"./fontx/ILGH16XB_starpatch.FNT","./fontx/ILGH16XB_starpatch.FNT"); // 16Dot Gothic
 //  Fontx_init(fx,"./fontx/ILMH16XB.FNT","./fontx/ILMZ16XB.FNT"); // 16Dot Mincyo
 
   int spos;
